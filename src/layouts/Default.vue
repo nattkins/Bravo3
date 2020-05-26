@@ -26,14 +26,14 @@
             <g-link v-else to="/#projects" class="text-copy-primary hover:text-gray-600">Projects</g-link>
           </li>
           <li>
-            <g-link to="/docs" class="text-copy-primary hover:text-gray-600">About Us</g-link>
+            <g-link to="/docs/" class="text-copy-primary hover:text-gray-600">About Us</g-link>
           </li>
           <li>
             <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
             <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact Us</g-link>
           </li>
           <li>
-            <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
+            <g-link to="/blog/" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
         </ul>
       </nav>
