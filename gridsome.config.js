@@ -5,9 +5,10 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
+  chainWebpack: config => config.mode('development'),
   siteName: 'Bravo Criteria Site',
   siteDescription: 'testing',
-  siteUrl: 'https://clever-wescoff-84e3bc.netlify.app/',
+  siteUrl: 'https://clever-wescoff-84e3bc.netlify.app',
    plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -33,8 +34,7 @@ module.exports = {
             'g-image--loaded',
             'active',
           ],
-          defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
-          chainWebpack: config => config.mode('development')
+          defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
         },
       }
     },
@@ -105,4 +105,5 @@ module.exports = {
       anchorClassName: 'icon icon-link',
     }
   },
+
 }
