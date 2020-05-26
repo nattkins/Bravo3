@@ -18,9 +18,9 @@
           <li class="mb-6 lg:mb-0">
             <search-input />
           </li>
-          <li>
+          <!-- <li>
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
-          </li>
+          </li> -->
           <li>
             <a v-if="$route.path === '/'" href="/#projects" v-scroll-to="'#projects'" class="text-copy-primary hover:text-gray-600">Projects</a>
             <g-link v-else to="/#projects" class="text-copy-primary hover:text-gray-600">Projects</g-link>
