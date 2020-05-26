@@ -29,7 +29,7 @@
             <g-link to="/docs/" class="text-copy-primary hover:text-gray-600">About Us</g-link>
           </li>
           <li>
-            <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
+            <a v-if="$route.path === '/'" href="/#reachout" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
             <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact Us</g-link>
           </li>
           <li>
