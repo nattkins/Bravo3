@@ -67,7 +67,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Gridsome Portfolio Starter Blog',
+          title: 'Bravo Criteria and Blog',
           feed_url: 'https://bravocriteria.com/rss.xml',
           site_url: 'https://bravocriteria.com/'
         },
