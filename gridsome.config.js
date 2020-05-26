@@ -8,7 +8,7 @@ module.exports = {
   chainWebpack: config => config.mode('development'),
   siteName: 'Bravo Criteria Site',
   siteDescription: 'testing',
-  siteUrl: 'https://clever-wescoff-84e3bc.netlify.app',
+  siteUrl: 'https://clever-wescoff-84e3bc.netlify.app/',
    plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -69,14 +69,14 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Gridsome Portfolio Starter Blog',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+          feed_url: 'https://clever-wescoff-84e3bc.netlify.app/rss.xml',
+          site_url: 'https://clever-wescoff-84e3bc.netlify.app/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Andre Madarang',
+          url: 'https://clever-wescoff-84e3bc.netlify.app/' + node.path,
+          author: 'Neville Attkin',
           date: node.date
         }),
         output: {

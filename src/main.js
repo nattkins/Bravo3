@@ -26,10 +26,10 @@ export default function (Vue, { router, head, isClient }) {
     content: 'Gridsome Portfolio Starter'
   })
 
-  head.meta.push({
-    name: 'author',
-    content: 'Andre Madarang'
-  })
+  // head.meta.push({
+  //   name: 'author',
+  //   content: 'Andre Madarang'
+  // })
 
   head.link.push({
     rel: 'stylesheet',
