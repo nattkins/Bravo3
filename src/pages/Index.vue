@@ -302,7 +302,7 @@
           <p class="mb-12">Let us know what you think, ask us how we can help or just say hello</p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <!-- <form name="reachout" action="#" class="mb-12" 
+            <form name="reachout" action="#" class="mb-12" 
                method="post"
     data-netlify="true"
     data-netlify-honeypot="bot-field"
@@ -338,7 +338,7 @@
               <div class="flex justify-end w-full">
                   <input type="submit" value="Submit" class="block bg-gold-500 hover:bg-gold-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
               </div>
-          </form> -->
+          </form>
           </div>
         </div>
       </div>    </div>
