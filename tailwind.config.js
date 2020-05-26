@@ -35,8 +35,9 @@ module.exports = {
       black: '#000',
       white: '#fff',
 
+
       green: {
-        100: '#f0fff4',
+        100: '#FFFBE6',
         200: '#c6f6d5',
         300: '#9ae6b4',
         400: '#68d391',
@@ -47,7 +48,7 @@ module.exports = {
         900: '#22543d',
       },
 
-      'gray': {
+      gray: {
         100: '#f7fafc',
         200: '#edf2f7',
         300: '#e2e8f0',
@@ -82,7 +83,7 @@ module.exports = {
         900: '#4D4100',
       },
 
-    
+    },
     fontFamily: {
       sans: [
         'Nunito Sans',
