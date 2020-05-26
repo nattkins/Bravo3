@@ -195,13 +195,13 @@
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/80x80/edf2f7/a5afbd">
           <div class="flex-grow">
             <h2 class="title-font font-medium">Neville - Founder </h2>
-            <p class="text-gray-500 text-xs">
+            <div class="text-gray-500 text-xs">
               <ul>
                 <li>Teacher, Communicator , Metaphor monger</li>
                 <li>Works at any height of government or business </li>
                 <li>Helps make metaphors out of mountains</li>
               </ul>
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -210,12 +210,12 @@
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/84x84/edf2f7/a5afbd">
           <div class="flex-grow">
             <h2 class="title-font font-medium">Alex - Solution Architect </h2>
-            <p class="text-gray-500 text-xs">
+            <div class="text-gray-500 text-xs">
             <ul>
             <li>Ex-Professional Rugby player.</li>
             <li>Works in every sector there is.</li>
             <li>The hardest working guy in the enterprise.</li>
-            </ul></p> 
+            </ul></div> 
           </div>
         </div>
       </div>
@@ -224,13 +224,13 @@
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/88x88/edf2f7/a5afbd">
           <div class="flex-grow">
             <h2 class="title-font font-medium">Jake - Business Architect</h2>
-            <p class="text-gray-500 text-xs">
+            <div class="text-gray-500 text-xs">
               <ul>
               <li>PhD and MBA.</li>
               <li>When we say business, we mean any business.</li>
               <li>He's cutting edge - but with nice bedside manners.</li>
               </ul>
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -239,12 +239,12 @@
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/90x90/edf2f7/a5afbd">
           <div class="flex-grow">
             <h2 class="title-font font-medium">Michelle - Facilitator in Chief</h2>
-            <p class="text-gray-500 text-xs">
+            <div class="text-gray-500 text-xs">
               <ul>
             <li>  Fluent in Spanish, English, Business and Human.</li>
             <li>  Works the globe over, in businesses to make s**t real. </li>
             <li>  Most likely to say the next thing you need to hear.</li> 
-              </ul></p>
+              </ul></div>
           </div>
         </div>
       </div>
@@ -253,14 +253,14 @@
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/94x94/edf2f7/a5afbd">
           <div class="flex-grow">
             <h2 class="title-font font-medium">Daniel - Business Access Accelerator  </h2>
-            <p class="text-gray-500 text-xs">
+            <div class="text-gray-500 text-xs">
               <ul>
               <li>  Translates pain into healing requirements  </li>
               <li>  Works all the ways round business and government</li>
               <li>  He cares, and that's plenty.</li>
                 </ul>
             
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -269,14 +269,14 @@
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://dummyimage.com/98x98/edf2f7/a5afbd">
           <div class="flex-grow">
             <h2 class="text-gray-900 title-font font-medium">Kim Project / Team lead</h2>
-            <p class="text-gray-500 text-xs">
+            <div class="text-gray-500 text-xs">
             <ul>
             <li>Agile Multi-instrumentalist</li>
             <li>Works in .gov, .com's and nuclear power stations</li>
             <li>In situations political and not so political ask Kim</li>
             </ul>
 
-            </p>
+            </div>
           </div>
         </div>
       </div>
@@ -299,7 +299,7 @@
         <div class="container-inner mx-auto text-xl pb-4 relative">
           <h2 class="font-bold mb-6" id="reachout">Contact Us</h2>
 
-          <p class="mb-12">Let us know what you think, ask us how we can help or just say hello</p>
+          <div class="mb-12">Let us know what you think, ask us how we can help or just say hello</div>
 
           <div class="text-lg sm:text-lg mb-16">
             <form name="reachout" action="#" class="mb-12" 
@@ -345,7 +345,8 @@
       
          <div class="hidden">
           <iframe src="https://clever-wescoff-84e3bc.netlify.app/jitiwiki/"></iframe>
-        </div> </div>
+        </div>
+         </div>
 
   </Layout>
 </template>
