@@ -8,7 +8,8 @@ module.exports = {
   siteName: 'Bravo Criteria Site',
   siteDescription: 'testing',
   siteUrl: 'https://clever-wescoff-84e3bc.netlify.app/',
-  plugins: [
+  chainWebpack: config => config.mode('development'), 
+   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
       options: {
