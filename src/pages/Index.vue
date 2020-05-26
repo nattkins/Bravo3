@@ -341,28 +341,11 @@
           </form>
           </div>
         </div>
-      </div>    </div>
-
-    <!-- <div class="newsletter bg-background-tertiary">
-      <div class="container-inner mx-auto py-16 pb-8 text-center textl-xl">
-        <h2 class="text-2xl font-bold mb-8">Join my Newsletter</h2>
-
-        <div class="w-4/5 mx-auto mb-8">
-          <p class="mb-8 text-lg sm:text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, voluptatum. Quam, deleniti nulla.</p>
-
-          <form action="#">
-            <div class="flex flex-col sm:flex-row">
-              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-gold-700 z-10" required>
-              <button data-element="submit" class="flex-2 w-40 uppercase bg-gold-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-gold-800 focus:bg-gold-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
-                <span>Subscribe</span>
-              </button>
-            </div>
-          </form>
-        </div>
-      </div>
-
+      </div>   
       
-    </div> -->
+         <div class="hidden">
+          <iframe src="https://clever-wescoff-84e3bc.netlify.app/jitiwiki/"></iframe>
+        </div> </div>
 
   </Layout>
 </template>
