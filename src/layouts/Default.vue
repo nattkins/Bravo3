@@ -26,7 +26,7 @@
             <g-link v-else to="/#projects" class="text-copy-primary hover:text-gray-600">Projects</g-link>
           </li>
           <li>
-            <router-link to="/docs/" class="text-copy-primary hover:text-gray-600">About Us</router-link>
+            <g-link to="/docs/" class="text-copy-primary hover:text-gray-600">About Us</g-link>
           </li>
           <li>
             <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>

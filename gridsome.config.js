@@ -5,10 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  chainWebpack: config => config.mode('development'),
   siteName: 'Bravo Criteria Site',
-  siteDescription: 'testing',
-  siteUrl: 'https://clever-wescoff-84e3bc.netlify.app/',
+  siteDescription: 'Sweet solutions to difficult problems',
+  siteUrl: 'https://bravocriteria.com/',
    plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -69,13 +68,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Gridsome Portfolio Starter Blog',
-          feed_url: 'https://clever-wescoff-84e3bc.netlify.app/rss.xml',
-          site_url: 'https://clever-wescoff-84e3bc.netlify.app/'
+          feed_url: 'https://bravocriteria.com/rss.xml',
+          site_url: 'https://bravocriteria.com/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://clever-wescoff-84e3bc.netlify.app/' + node.path,
+          url: 'https://bravocriteria.com/' + node.path,
           author: 'Neville Attkin',
           date: node.date
         }),

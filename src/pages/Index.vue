@@ -343,9 +343,6 @@
         </div>
       </div>   
       
-         <div class="hidden">
-          <iframe src="https://clever-wescoff-84e3bc.netlify.app/jitiwiki/"></iframe>
-        </div>
          </div>
 
   </Layout>
