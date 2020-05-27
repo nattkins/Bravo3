@@ -5,12 +5,12 @@ excerpt: Our document and demo first approach
 
 ## Our Document-based / Demo-based approach 
 
-Ever heard this sort of thing?
-_Consultant_: What is that you want us to do for you? 
-Client: Well, what sorts of thing can you do? 
-Consultant: (after enumerating an impressive list of stuff, none of which sounds like it would be anything anyone would want ) It depends on what you want to do? 
-Client:... 
-Everybody else (sighing): We could be here some time.
+Ever heard this sort of thing?<br/>
+_Consultant_: What is that you want us to do for you? <br/>
+_Client_: Well, what sorts of thing can you do? <br/>
+_Consultant_: (after enumerating an impressive list of stuff, none of which sounds like it would be anything anyone would want ) It depends on what you want to do? <br/>
+_Client_:... <br/>
+_Everybody else_ (sighing): We could be here some time.
 
 So instead, we find creating two documents is sufficient for the success of a project:
 1. A future press release 
