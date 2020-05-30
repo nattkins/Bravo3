@@ -63,7 +63,7 @@
 }
 
 a {
-  @apply text-gold-400 font-bold;
+  @apply text-indigo-400 font-bold;
 }
 
 a:hover {

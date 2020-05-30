@@ -6,7 +6,7 @@
      <h1 class="text-4xl font-bold w-full sm:w- text-center sm:text-left">How sweet it is for teams to succeed
         <br class="hidden lg:inline-block">especially when they have to be apart.
       </h1> 
-      <p class="mb-8 leading-relaxed">We create sweet success in this time of remote working with our innovative immersive IT Training, Adoption and Solutions,  using modern technology, creative collaboration and good old fashioned fun.</p>
+      <p class="mb-8 leading-relaxed">We create sweet success in this time of remote working with our innovative immersive learning, Adoption and Solutions,  using modern technology, creative collaboration and good old fashioned fun.</p>
       <div class="flex justify-center">
    <g-link to="/#reachout"> <button class="block bg-indigo-500 hover:bg-gold-600 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">Contact Us</button></g-link>
      
@@ -33,7 +33,7 @@
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
               </svg>
             </div>
-             <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Just In Time Training Video Wiki</h2>
+             <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Just In Time Video Wiki</h2>
       
           </div>
           <div class="flex-grow">
@@ -58,12 +58,12 @@
             </svg>
       
             </div>
-             <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our IT Adoption and Training</h2>
+             <h2 class="text-lg text-gray-900 font-medium title-font mb-2">Our IT Adoption and learning</h2>
       
           </div>
           <div class="flex-grow">
           <p class="leading-relaxed text-justify">Because training the old way could quickly become forgettable, and training delivered online is rarely more engaging than real life - we have a new, more engaging approach. We provide students with a chance to experience a memorable dramatic experience, and they end up learning not just what teams can do, but also they have memorably used Teams.
-        <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Take a look at our immersive training
+        <g-link to="/teams-adoption-level-one/" class="min-w-full mt-3 text-indigo-500 inline-flex items-center">Take a look at our immersive learning experience
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                 <path d="M5 12h14M12 5l7 7-7 7"></path>
               </svg>

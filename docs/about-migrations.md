@@ -23,7 +23,7 @@ It's clear to us that migrations mainly begin their journey to Fail when the goa
 The successful journey, on the other hand, is quite simple.
 
 1. Get a vision; it will be a metaphor for what you want to have happen.
-1. Share the vision widely and be clear what its realization will look, sound and feel like.
+1. Share the vision widely and be clear what its realization will look, sound and feel like - 
 1. Work with technologies and people that grasp the vision and can deliver it.
 1. Training / adoption
 1. Start
